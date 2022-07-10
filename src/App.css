@@ -30,13 +30,13 @@ code {
   color: #212529;
   font-size: 14px;
   width: 1912px;
-  /* width: 100vw; */
   padding-top: 0;
   transition: 0.5s;
   position: relative;
   min-height: 100vh;
   padding-bottom: 100px;
   overflow: hidden;
+  background: #F7FAFF;
 }
 
 @media only screen and (max-width: 380px) {

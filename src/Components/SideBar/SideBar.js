@@ -9,13 +9,13 @@ import {
 } from 'react-icons/fa';
 import './SideBar.css';
 import Paragraph from '../../commons/Paragraph';
-import finance_logo from '../../Assets/images/finance_logo.png'
+import finance_logo from '../../Assets/images/finance_logo.png';
 
 const SideBar = () => {
   return (
     <div id='sidebar'>
       <div className='sidebar-header'>
-       <img src={finance_logo} alt='finance_logo' />
+        <img src={finance_logo} alt='finance_logo' />
       </div>
 
       <div id='navigation-list'>

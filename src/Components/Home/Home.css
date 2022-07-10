@@ -28,7 +28,6 @@
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  font-family: muli, sans-serif;
   font-size: 14px;
   background-color: #fff;
   top: 0;
@@ -37,7 +36,6 @@
   position: relative;
   margin: 27px 30px;
   border-radius: 7px;
-  margin-bottom: 20px;
   width: 1606px;
   height: 137px;
   box-shadow: 1px 0 5px rgba(0, 0, 0, 0.1);
@@ -164,7 +162,7 @@ form {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin: 10px;
+  margin: 15px;
   width: 358px;
   height: 185.39px;
   box-shadow: 1px 0 5px rgba(0, 0, 0, 0.1);
