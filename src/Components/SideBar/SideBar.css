@@ -7,7 +7,7 @@
   line-height: 1.5;
   color: #212529;
   font-size: 14px;
-  min-height: 611px;
+  min-height: 495px;
   left: 0;
   top: 0;
   padding-bottom: 50px;
@@ -28,6 +28,13 @@
   background: #fff;
   padding: 33px 30px;
   border-radius: 7px;
+  width: 204px;
+  height: 105.13px;
+}
+
+.finance_logo {
+  width: 144px;
+  height: 39.13px;
 }
 
 #navigation-list {

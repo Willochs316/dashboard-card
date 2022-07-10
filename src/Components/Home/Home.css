@@ -36,7 +36,7 @@
   position: relative;
   margin: 27px 30px;
   border-radius: 7px;
-  width: 1606px;
+  width: 1126px;
   height: 137px;
   box-shadow: 1px 0 5px rgba(0, 0, 0, 0.1);
 }
@@ -143,7 +143,7 @@ form {
   line-height: 1.5;
   color: #212529;
   font-size: 14px;
-  width: 1606px;
+  width: 1126px;
   margin-right: auto;
   margin-left: auto;
   background: #fff;
@@ -163,7 +163,7 @@ form {
   align-items: center;
   justify-content: center;
   margin: 15px;
-  width: 358px;
+  width: 325px;
   height: 185.39px;
   box-shadow: 1px 0 5px rgba(0, 0, 0, 0.1);
   font-weight: 400;

@@ -54,10 +54,28 @@ const Home = () => {
             <img src='./icons8-naira-24.png' id='naira-icon' alt='naira-icon' />
             <Paragraph className='dashboard-amount' title='Total Withdrawn' />
           </div>
+        </div>
 
+        <div className='dashboard-item-container'>
           <div className='dashboard-item'>
             <img src='./icons8-naira-24.png' id='naira-icon' alt='naira-icon' />
             <Paragraph className='dashboard-amount' title='Pending Balance' />
+          </div>
+
+          <div className='dashboard-item'>
+            <img src='./icons8-naira-24.png' id='naira-icon' alt='naira-icon' />
+            <Paragraph
+              className='dashboard-amount'
+              title='Release Count Payment'
+            />
+          </div>
+
+          <div className='dashboard-item'>
+            <img src='./icons8-naira-24.png' id='naira-icon' alt='naira-icon' />
+            <Paragraph
+              className='dashboard-amount'
+              title='Count Support Ticket'
+            />
           </div>
         </div>
 
@@ -78,14 +96,6 @@ const Home = () => {
               title='Completed count payment'
             />
           </div>
-
-          <div className='dashboard-item'>
-            <img src='./icons8-naira-24.png' id='naira-icon' alt='naira-icon' />
-            <Paragraph
-              className='dashboard-amount'
-              title='Release Count Payment'
-            />
-          </div>
         </div>
 
         <div className='dashboard-item-container'>
@@ -103,13 +113,6 @@ const Home = () => {
           <div className='dashboard-item'>
             <img src='./icons8-naira-24.png' id='naira-icon' alt='naira-icon' />
             <Paragraph className='dashboard-amount' title='Resolved payment' />
-          </div>
-          <div className='dashboard-item'>
-            <img src='./icons8-naira-24.png' id='naira-icon' alt='naira-icon' />
-            <Paragraph
-              className='dashboard-amount'
-              title='Count Support Ticket'
-            />
           </div>
         </div>
       </div>

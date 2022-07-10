@@ -15,7 +15,7 @@ const SideBar = () => {
   return (
     <div id='sidebar'>
       <div className='sidebar-header'>
-        <img src={finance_logo} alt='finance_logo' />
+        <img src={finance_logo} alt='finance_logo' className='finance_logo'/>
       </div>
 
       <div id='navigation-list'>
